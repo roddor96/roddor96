@@ -1,8 +1,10 @@
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/cefa9008-d010-4b67-9b05-36035a098b2e" />
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/rodrigo-ivan-dorantes-martinez/)
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/rodrigo-ivan-dorantes-martinez/)
+</p>
 
 
 <!--
