@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/cefa9008-d010-4b67-9b05-36035a098b2e" />
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/cefa9008-d010-4b67-9b05-36035a098b2e" />
+
 
 <!--
 **roddor96/roddor96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
